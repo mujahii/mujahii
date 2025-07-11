@@ -18,7 +18,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ---
 
 ## 🧠 Tech Stack
-
+<table align="center"> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=git" width="30"/><br>Git </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="30"/><br>GitHub </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=figma" width="30"/><br>Figma </td> </tr> <tr> <td align="center" width="100"> <img src="https://img.icons8.com/color/48/canva.png" width="25"/><br>Canva </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=gcp" width="30"/><br>Google Cloud </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=aws" width="30"/><br>AWS </td> </tr> <tr> <td align="center" width="100"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="25"/><br>Postman </td> <td align="center" width="100"> <img src="https://img.icons8.com/color/48/notion.png" width="25"/><br>Notion </td> <td align="center" width="100"> <!-- You can add a 9th tool here if you like --> </td> </tr> </table>
 ### 👨‍💻 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="30"/> Java &nbsp;&nbsp;&nbsp;
