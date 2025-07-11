@@ -18,56 +18,20 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ---
 
 ## 🧠 Tech Stack
-<table align="center"> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=git" width="30"/><br>Git </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="30"/><br>GitHub </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=figma" width="30"/><br>Figma </td> </tr> <tr> <td align="center" width="100"> <img src="https://img.icons8.com/color/48/canva.png" width="25"/><br>Canva </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=gcp" width="30"/><br>Google Cloud </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=aws" width="30"/><br>AWS </td> </tr> <tr> <td align="center" width="100"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="25"/><br>Postman </td> <td align="center" width="100"> <img src="https://img.icons8.com/color/48/notion.png" width="25"/><br>Notion </td> <td align="center" width="100"> <!-- You can add a 9th tool here if you like --> </td> </tr> </table>
 ### 👨‍💻 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="30"/> Java &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="30"/> HTML &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="30"/> CSS &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="30"/> PHP &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="30"/> Dart &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="30"/> Python &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=swift" width="30"/> Swift
-</p>
+<table align="center"> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="30"/><br>Java</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="30"/><br>JavaScript</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="30"/><br>HTML</td> </tr> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="30"/><br>CSS</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="30"/><br>PHP</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="30"/><br>Dart</td> </tr> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="30"/><br>Python</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=swift" width="30"/><br>Swift</td> <td align="center" width="100"></td> </tr> </table>
 
 ### ⚙️ Frameworks & Libraries  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="30"/> Flutter &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="30"/> React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="30"/> Bootstrap &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" width="30"/> Laravel &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" width="30"/> jQuery
-</p>
+<table align="center"> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="30"/><br>Node.js</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="30"/><br>Flutter</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="30"/><br>React</td> </tr> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="30"/><br>Bootstrap</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=laravel" width="30"/><br>Laravel</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="30"/><br>jQuery</td> </tr> </table>
 
 ### 🗄️ Databases & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" width="30"/> Firebase &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> MongoDB &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL &nbsp;&nbsp;&nbsp;
-</p>
+<table align="center"> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="30"/><br>Firebase</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="30"/><br>MongoDB</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="30"/><br>MySQL</td> </tr> </table>
 
 ### 🚀 DevOps & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="30"/> Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="30"/> Figma &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/canva.png" width="30"/> Canva &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" width="30"/> Google Cloud &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="30"/> AWS &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="30"/> Postman &nbsp;&nbsp;&nbsp;  
-  <img src="https://img.icons8.com/color/48/notion.png" width="30"/> Notion 
-</p>
+<table align="center"> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="30"/><br>Git</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="30"/><br>GitHub</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="30"/><br>Figma</td> </tr> <tr> <td align="center" width="100"><img src="https://img.icons8.com/color/48/canva.png" width="25"/><br>Canva</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gcp" width="30"/><br>Google Cloud</td> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="30"/><br>AWS</td> </tr> <tr> <td align="center" width="100"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="25"/><br>Postman</td> <td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="25"/><br>Notion</td> <td align="center" width="100"></td> </tr> </table>
 
 ### 🏢 Enterprise & Component-based Development  
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/> Java EE / Jakarta EE &nbsp;&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" width="30"/> Web Services (SOAP/REST) &nbsp;&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/color/48/database.png" width="30"/> JDBC &nbsp;&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/ios-filled/50/puzzle.png" width="30"/> EJB &nbsp;&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-message-contact-us-flatart-icons-outline-flatarticons.png" width="30"/> JMS 
-</p>
+<table align="center"> <tr> <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/><br>Java EE / Jakarta EE</td> <td align="center" width="100"><img src="https://img.icons8.com/fluency/48/api-settings.png" width="30"/><br>Web Services</td> <td align="center" width="100"><img src="https://img.icons8.com/color/48/database.png" width="30"/><br>JDBC</td> </tr> <tr> <td align="center" width="100"><img src="https://img.icons8.com/ios-filled/50/puzzle.png" width="30"/><br>EJB</td> <td align="center" width="100"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-message-contact-us-flatart-icons-outline-flatarticons.png" width="30"/><br>JMS</td> <td align="center" width="100"></td> </tr> </table>
 
 ---
 
