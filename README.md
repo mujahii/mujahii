@@ -46,7 +46,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
   <img src="https://skillicons.dev/icons?i=firebase" width="25"/> Firebase &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> MongoDB &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="25"/> SQLite
 </p>
 
 ### 🚀 DevOps & Tools  
