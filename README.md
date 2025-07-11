@@ -20,7 +20,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="30"/> Java &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="30"/> HTML &nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </p>
 
 ### ⚙️ Frameworks & Libraries  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> Node.js &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" width="30"/> Flutter &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="30"/> React &nbsp;&nbsp;&nbsp;
@@ -42,14 +42,14 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </p>
 
 ### 🗄️ Databases & Platforms  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=firebase" width="30"/> Firebase &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> MongoDB &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL &nbsp;&nbsp;&nbsp;
 </p>
 
 ### 🚀 DevOps & Tools  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="30"/> Git &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="30"/> Figma &nbsp;&nbsp;&nbsp;
@@ -61,7 +61,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </p>
 
 ### 🏢 Enterprise & Component-based Development  
-<p> 
+<p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/> Java EE / Jakarta EE &nbsp;&nbsp;&nbsp; 
   <img src="https://img.icons8.com/fluency/48/api-settings.png" width="30"/> Web Services (SOAP/REST) &nbsp;&nbsp;&nbsp; 
   <img src="https://img.icons8.com/color/48/database.png" width="30"/> JDBC &nbsp;&nbsp;&nbsp; 
