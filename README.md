@@ -21,41 +21,52 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 ### 👨‍💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="25"/> Java &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="25"/> JavaScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="25"/> HTML &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="25"/> CSS &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="25"/> PHP &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="25"/> Dart &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="25"/> Python &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=swift" width="25"/> Swift
+  <img src="https://skillicons.dev/icons?i=java" width="30"/> Java &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="30"/> HTML &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="30"/> CSS &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="30"/> PHP &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" width="30"/> Dart &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="30"/> Python &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=swift" width="30"/> Swift
 </p>
 
 ### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="25"/> Flutter &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="25"/> React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="25"/> Bootstrap &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" width="25"/> Laravel &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" width="25"/> jQuery
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> Node.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="30"/> Flutter &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="30"/> React &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="30"/> Bootstrap &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="30"/> Laravel &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" width="30"/> jQuery
 </p>
 
 ### 🗄️ Databases & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" width="25"/> Firebase &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> MongoDB &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="30"/> Firebase &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> MongoDB &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL &nbsp;&nbsp;&nbsp;
 </p>
 
 ### 🚀 DevOps & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/canva.png" width="25"/> Canva &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" width="25"/> Google Cloud &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS
+  <img src="https://skillicons.dev/icons?i=git" width="30"/> Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="30"/> Figma &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/canva.png" width="30"/> Canva &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" width="30"/> Google Cloud &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="30"/> AWS &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="30"/> Postman &nbsp;&nbsp;&nbsp;  
+  <img src="https://img.icons8.com/color/48/notion.png" width="30"/> Notion 
+</p>
+
+### 🏢 Enterprise & Component-based Development  
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/> Java EE / Jakarta EE &nbsp;&nbsp;&nbsp; 
+  <img src="https://img.icons8.com/fluency/48/api-settings.png" width="30"/> Web Services (SOAP/REST) &nbsp;&nbsp;&nbsp; 
+  <img src="https://img.icons8.com/color/48/database.png" width="30"/> JDBC &nbsp;&nbsp;&nbsp; 
+  <img src="https://img.icons8.com/ios-filled/50/puzzle.png" width="30"/> EJB &nbsp;&nbsp;&nbsp; 
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-message-contact-us-flatart-icons-outline-flatarticons.png" width="30"/> JMS 
 </p>
 
 ---
