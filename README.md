@@ -51,34 +51,68 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 ### 🚀 DevOps & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=canva" width="25"/> Canva &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" width="25"/> Google Cloud &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS
+  <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/canva.png" width="25"/> Canva &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" width="25"/> Google Cloud &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS
 </p>
+
+---
+
+## 🏆 Certifications & Achievements
+- 📜 Google Digital Marketing Certification
+- 📜 AWS Cloud Practitioner (in progress)
+
+---
+
+## 🌍 Open Source & Community
+- 🧑‍💻 Contributor to [U-Share](https://github.com/mujahii/U-Share)
+- 🤝 Mentor at UPM Coding Club — helping juniors learn web & mobile dev
+- 📢 Speaker: “Introduction to Flutter” workshop, UPM 2023
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter animations & state management
+- Cloud DevOps with Kubernetes
+- Public speaking & effective technical writing
+
+---
+
+## 🎨 Fun Facts
+- 🏖️ I love sketching landscapes and UI wireframes
+- 🌍 Fluent in Arabic, Bengali, English, Spanish, and learning German
+- ☕ Big fan of coffee and late-night coding jams
+
+---
+
+## 🚀 Featured Projects
+- [U-Share](https://github.com/mujahii/U-Share) — A Laravel-based rental marketplace for students
+- [Top Pantry](https://github.com/mujahii/TopPantry) — Mobile app for school pantry management (Flutter & Firebase)
+- [Personal Portfolio](https://github.com/mujahii/Portfolio) — This very portfolio website
 
 ---
 
 ## 📊 GitHub Summary & Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujahii&theme=ayu_mirage" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mujahii&theme=nord_bright" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mujahii&theme=ayu_mirage" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mujahii&theme=ayu_mirage&utcOffset=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mujahii&theme=nord_bright&utcOffset=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mujahii&theme=nord_bright&utcOffset=8" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujahii&theme=ayu-mirage&hide_border=true" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mujahii&show_icons=true&theme=nord_bright" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujahii&theme=ayu_mirage" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mujahii&theme=ayu_mirage" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujahii&theme=nord_bright" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mujahii&theme=nord_bright" width="45%" />
 </p>
 
 ---
