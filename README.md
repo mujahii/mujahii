@@ -58,7 +58,20 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </table>
 
 ### 🗄️ Databases & Platforms  
-<table align="center"> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td> <td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>Amazon DynamoDB</td> </tr> <tr> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/oracle-icon.svg" width="45"/><br>Oracle Database</td> <td align="center" width="100"></td> <td align="center" width="100"></td> <td align="center" width="100"></td> </tr> </table>
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td>
+<td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>Amazon DynamoDB</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=oracle" width="45"/><br>Oracle Database</td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+</tr>
+</table>
 
 ### 🚀 DevOps & Tools  
 <table align="center">
