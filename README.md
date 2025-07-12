@@ -14,7 +14,9 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 💡 I’m passionate about leveraging multidisciplinary expertise for **innovative and impactful projects**, and always open to new **connections and opportunities** in tech and business.
 
-> “Your most unhappy customers are your greatest source of learning.” — Bill Gates
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9AA6B2&width=1800&lines=“Your+most+unhappy+customers+are+your+greatest+source+of+learning.”+—+Bill+Gates;“The+best+way+to+predict+the+future+is+to+invent+it.”+—+Alan+Kay;“If+you+are+not+embarrassed+by+the+first+version+of+your+product,+you’ve+launched+too+late.”+—+Reid+Hoffman;“Do+not+be+embarrassed+by+your+failures,+learn+from+them+and+start+again.”+—+Richard+Branson;“If+you+define+yourself+by+how+you+differ+from+the+competition,+you’re+probably+in+trouble.”+—+Omar+Hamoui;“We+cannot+solve+our+problems+with+the+same+thinking+we+used+when+we+created+them.”+—+Albert+Einstein;“Fall+seven+times+and+stand+up+eight.”+—+Japanese+Proverb;“Success+is+not+delivering+a+feature;+success+is+learning+how+to+solve+the+customer’s+problem.”+—+Eric+Ries;“Don’t+worry+about+failure;+you+only+have+to+be+right+once.”+—+Drew+Houston;“It’s+not+about+ideas.+It’s+about+making+ideas+happen.”+—+Scott+Belsky" alt="Typing Animation">
+</p>
 
 ---
 
