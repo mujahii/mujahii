@@ -65,7 +65,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ### 🗄️ Databases & Platforms
 <table align="center">
 <tr>
-<td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/Y2nvNLRn/Google-Firebase-Logoto-Icon-Bla-unscreen.gif" width="45"/><br>Firebase</td>
 <td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td>
 <td align="center" width="100"><img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" width="45"/><br>Amazon DynamoDB</td>
@@ -85,7 +85,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td>
 <td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="40"/><br>Notion</td>
-<td align="center" width="100"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br>PowerBI</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/xjRCfJBj/output-onlinegiftools-3.gif" width="45"/><br>PowerBI</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/ydCHyf9h/Wordpress-Logo-Grow.gif" width="45"/><br>WordPress</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/QCCP1PSd/ezgif-19b99098c57682.gif" width="60"/><br>VS Code</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/rppYv7XC/Android-Studio-New-Logo.gif" width="45"/><br>Android Studio</td>
