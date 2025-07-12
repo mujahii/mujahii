@@ -54,7 +54,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="70" /><br>PrimeFaces</td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" width="45"/><br>Tailwind CSS</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwindcss" width="45"/><br>TailwindCSS</td>
 <td align="center" width="100"></td>
 <td align="center" width="100"></td>
 <td align="center" width="100"></td>
@@ -85,7 +85,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td>
 <td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="40"/><br>Notion</td>
-<td align="center" width="100"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br>Power BI</td>
+<td align="center" width="100"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br>PowerBI</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/ydCHyf9h/Wordpress-Logo-Grow.gif" width="45"/><br>WordPress</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/QCCP1PSd/ezgif-19b99098c57682.gif" width="60"/><br>VS Code</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/rppYv7XC/Android-Studio-New-Logo.gif" width="45"/><br>Android Studio</td>
