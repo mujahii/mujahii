@@ -97,7 +97,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 ## 🏆 Certifications & Achievements
 - 📜 Google Digital Marketing Certification
-- 📜 AWS Cloud Practitioner (in progress)
+- 📜 AWS Cloud Practitioner 
 
 ---
 
