@@ -51,7 +51,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>jQuery</td>
-<td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="50" /><br>PrimeFaces</td>
+<td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="70" /><br>PrimeFaces</td>
 </tr>
 </table>
 
