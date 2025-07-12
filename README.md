@@ -65,12 +65,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>Amazon DynamoDB</td>
 </tr>
-<tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=oracle" width="45"/><br>Oracle Database</td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
-</tr>
 </table>
 
 ### 🚀 DevOps & Tools  
