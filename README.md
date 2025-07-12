@@ -54,7 +54,11 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="70" /><br>PrimeFaces</td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br>Tailwind CSS</td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" width="45"/><br>Tailwind CSS</td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
 </tr>
 </table>
 
