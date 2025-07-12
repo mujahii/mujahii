@@ -68,7 +68,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://i.postimg.cc/Y2nvNLRn/Google-Firebase-Logoto-Icon-Bla-unscreen.gif" width="45"/><br>Firebase</td>
 <td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td>
-<td align="center" width="100"><img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" width="45"/><br>Amazon DynamoDB</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/0j2ZTKKX/1738702152437-unscreen.gif" width="60"/><br>DynamoDB</td>
 </tr>
 </table>
 
