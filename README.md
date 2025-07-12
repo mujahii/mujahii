@@ -29,11 +29,14 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/><br>HTML</td>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
+</tr>
+<tr>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br>Dart</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td>
 <td align="center" width="100"> <img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/><br>Kotlin </td>
+<td align="center" width="100"></td>
 </tr>
 </table>
 
@@ -68,13 +71,15 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://i.postimg.cc/3NmVJpwK/626f16be-1d79-4815-82e1-1659ee63017d.gif" width="60"/><br>Canva</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/bYVj607t/output-onlinegiftools-1.gif" width="60"/><br>Google Cloud</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>AWS</td>
+</tr>
+<tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td>
 <td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="40"/><br>Notion</td>
 <td align="center" width="100"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br>Power BI</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/ydCHyf9h/Wordpress-Logo-Grow.gif" width="45"/><br>WordPress</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/QCCP1PSd/ezgif-19b99098c57682.gif" width="60"/><br>VS Code</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/rppYv7XC/Android-Studio-New-Logo.gif" width="45"/><br>Android Studio</td>
-</tr>
+</tr>  
 </table>
 
 ### 🏢 Enterprise & Component-based Development
