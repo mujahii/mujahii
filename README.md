@@ -108,15 +108,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 <p align="center">
   <a href="https://github.com/mujahii">
-    <img src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=mujahii&hide=contribs,issues&show_icons=true&count_private=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/mujahii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=mujahii&layout=compact&hide_progress=true" />
-  </a>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/mujahii">
     <img src="https://github-readme-stats.vercel.app/api?username=mujahii&show_icons=true&theme=nord_bright" width="90%" />
   </a>
 </p>
@@ -129,7 +120,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mujahii&theme=nord_bright" width="45%" />
   </a>
 </p>
-
 
 
 ---
