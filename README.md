@@ -51,8 +51,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>jQuery</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" /><br>PrimeFaces</td>
+<td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="50" /><br>PrimeFaces</td>
 </tr>
 </table>
 
@@ -89,9 +88,9 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ### 🏢 Enterprise & Component-based Development
 <table align="center">
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java EE / Jakarta EE</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java EE</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br>Web Services</td>
-<td align="center" width="100"><img src="https://img.icons8.com/color/48/database.png" width="45"/><br>JDBC</td>
+<td align="center" width="100"><img src="https://v31.openhab.org/logos/jdbc.png" width="45"/><br>JDBC</td>
 </tr>
 </table>
 
