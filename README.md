@@ -95,13 +95,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 ---
 
-## 🚀 Featured Projects
-- [U-Share](https://github.com/mujahii/U-Share) — A Laravel-based rental marketplace for students
-- [Top Pantry](https://github.com/mujahii/TopPantry) — Mobile app for school pantry management (Flutter & Firebase)
-- [Personal Portfolio](https://github.com/mujahii/Portfolio) — This very portfolio website
-
----
-
 ## 📊 GitHub Summary & Insights
 
 <p align="center">
