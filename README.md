@@ -66,7 +66,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://i.postimg.cc/3R2n21Cv/Git-Logo.gif" width="45"/><br>Git</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/L8wz8fKg/Figma-Logo.gif" width="45"/><br>Figma</td>
-<td align="center" width="100"><img src="https://i.postimg.cc/3NmVJpwK/626f16be-1d79-4815-82e1-1659ee63017d.gif" width="50"/><br>Canva</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/3NmVJpwK/626f16be-1d79-4815-82e1-1659ee63017d.gif" width="60"/><br>Canva</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/bYVj607t/output-onlinegiftools-1.gif" width="60"/><br>Google Cloud</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>AWS</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td>
