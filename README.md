@@ -1,11 +1,12 @@
 <!-- INTRO: Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9AA6B2&center=true&vCenter=true&width=700&lines=Hi+I'm+Mujahid+Mohammed;Software+Engineer+%7C+Marketing+Consultant+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9AA6B2&center=true&vCenter=true&width=700&lines=Hi+I'm+Mujahid+Mohammed;Software+Engineer+%7C+Marketing+Consultant+%7C+Designer;Welcome+to+my+GitHub+profile!">
+<img src="https://i.postimg.cc/t4N6Xjmx/Loading-52-Mario.gif" alt="Mario Loading" width="100"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I’m **Mujahid Mohammed**, currently pursuing a Bachelor's degree in Software Engineering at **Universiti Putra Malaysia (UPM)**.  
 My expertise spans **software engineering**, **digital marketing**, **website management**, and **UI/UX design**.  
