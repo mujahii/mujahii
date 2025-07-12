@@ -42,7 +42,20 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </table>
 
 ### ⚙️ Frameworks & Libraries  
-<table align="center"> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/MTzW8PT6/Nodejs.gif" width="50"/><br>Node.js</td> <td align="center" width="100"><img src="https://i.postimg.cc/wv4kdrVL/Flutter-Logo.gif" width="45"/><br>Flutter</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/><br>React</td> </tr> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td> <td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td> </tr> </table>
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/MTzW8PT6/Nodejs.gif" width="50"/><br>Node.js</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/wv4kdrVL/Flutter-Logo.gif" width="45"/><br>Flutter</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/><br>React</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+</tr>
+</table>
 
 ### 🗄️ Databases & Platforms  
 <table align="center"> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td> <td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td> </tr> </table>
