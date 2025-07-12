@@ -50,7 +50,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/><br>React</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="45"/><br>jQuery</td>
 </tr>
 </table>
 
