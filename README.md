@@ -29,12 +29,14 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45"/><br>TypeScript</td>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/><br>HTML</td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
-<td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
 </tr>
 <tr>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br>Dart</td>
+</tr>
+<tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td>
 <td align="center" width="100"> <img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/><br>Kotlin </td>
@@ -49,16 +51,12 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://i.postimg.cc/wv4kdrVL/Flutter-Logo.gif" width="45"/><br>Flutter</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/><br>React</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td>
-<td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>jQuery</td>
 </tr>
 <tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>jQuery</td>
 <td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="70" /><br>PrimeFaces</td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwindcss" width="45"/><br>TailwindCSS</td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
 </tr>
 </table>
 
@@ -79,12 +77,14 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/L8wz8fKg/Figma-Logo.gif" width="45"/><br>Figma</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/3NmVJpwK/626f16be-1d79-4815-82e1-1659ee63017d.gif" width="60"/><br>Canva</td>
-<td align="center" width="100"><img src="https://i.postimg.cc/bYVj607t/output-onlinegiftools-1.gif" width="60"/><br>Google Cloud</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>AWS</td>
 </tr>
 <tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/bYVj607t/output-onlinegiftools-1.gif" width="60"/><br>Google Cloud</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>AWS</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td>
 <td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="40"/><br>Notion</td>
+</tr>
+<tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/xjRCfJBj/output-onlinegiftools-3.gif" width="45"/><br>PowerBI</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/ydCHyf9h/Wordpress-Logo-Grow.gif" width="45"/><br>WordPress</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/QCCP1PSd/ezgif-19b99098c57682.gif" width="60"/><br>VS Code</td>
