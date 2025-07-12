@@ -20,7 +20,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages  
-💻 Languages
 <table align="center">
 <tr>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br>Java</td>
@@ -37,7 +36,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 </table>
 
-⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 <table align="center">
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/MTzW8PT6/Nodejs.gif" width="50"/><br>Node.js</td>
@@ -49,7 +48,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 </table>
 
-🗄️ Databases & Platforms
+### 🗄️ Databases & Platforms
 <table align="center">
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td>
@@ -60,7 +59,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 </table>
 
-🚀 DevOps & Tools
+### 🚀 DevOps & Tools
 <table align="center">
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/3R2n21Cv/Git-Logo.gif" width="45"/><br>Git</td>
@@ -78,7 +77,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 </table>
 
-🏢 Enterprise & Component-based Development
+### 🏢 Enterprise & Component-based Development
 <table align="center">
 <tr>
 <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java EE / Jakarta EE</td>
