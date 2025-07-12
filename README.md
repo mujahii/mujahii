@@ -20,21 +20,19 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages  
-<table align="center">
-<tr>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br>Java</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45"/><br>TypeScript</td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/><br>HTML</td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
-<td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br>Dart</td>
-<td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td>
-<td align="center" width="100"> <img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/><br>Kotlin </td>
-</tr>
-</table>
+<p>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/> Java
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/> JavaScript
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45"/> TypeScript
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/> HTML
+<img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/> CSS
+<img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/> PHP
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/> Python
+<img src="https://skillicons.dev/icons?i=dart" width="45"/> Dart
+<img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/> Swift
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++
+<img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/> Kotlin
+</p>
 
 ### ⚙️ Frameworks & Libraries
 <table align="center">
