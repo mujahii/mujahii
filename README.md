@@ -95,33 +95,6 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 
 ---
 
-## 🏆 Certifications & Achievements
-- 📜 Google Digital Marketing Certification
-- 📜 AWS Cloud Practitioner 
-
----
-
-## 🌍 Open Source & Community
-- 🧑‍💻 Contributor to [U-Share](https://github.com/mujahii/U-Share)
-- 🤝 Mentor at UPM Coding Club — helping juniors learn web & mobile dev
-- 📢 Speaker: “Introduction to Flutter” workshop, UPM 2023
-
----
-
-## 🌱 Currently Learning
-- Advanced Flutter animations & state management
-- Cloud DevOps with Kubernetes
-- Public speaking & effective technical writing
-
----
-
-## 🎨 Fun Facts
-- 🏖️ I love sketching landscapes and UI wireframes
-- 🌍 Fluent in Arabic, Bengali, English, Spanish, and learning German
-- ☕ Big fan of coffee and late-night coding jams
-
----
-
 ## 🚀 Featured Projects
 - [U-Share](https://github.com/mujahii/U-Share) — A Laravel-based rental marketplace for students
 - [Top Pantry](https://github.com/mujahii/TopPantry) — Mobile app for school pantry management (Flutter & Firebase)
