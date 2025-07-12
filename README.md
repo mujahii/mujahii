@@ -20,7 +20,26 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages  
-<table align="center"> <tr> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br>Java</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript</td> <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/><br>HTML</td> </tr> <tr> <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td> <td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td> </tr> <tr> <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br>Dart</td> <td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>  <td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td></tr>  <tr> <td align="center" width="100"> <img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/><br>Kotlin </td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45"/><br>TypeScript</td> <td align="center" width="100"></td></tr> </table>
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br>Java</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript</td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/><br>HTML</td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br>Dart</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td>
+<td align="center" width="100"> <img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/><br>Kotlin </td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45"/><br>TypeScript</td>
+<td align="center" width="100"></td>
+</tr>
+</table>
 
 ### ⚙️ Frameworks & Libraries  
 <table align="center"> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/MTzW8PT6/Nodejs.gif" width="50"/><br>Node.js</td> <td align="center" width="100"><img src="https://i.postimg.cc/wv4kdrVL/Flutter-Logo.gif" width="45"/><br>Flutter</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"/><br>React</td> </tr> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/KY4Zcqhx/giphy-6.webp" width="45"/><br>Bootstrap</td> <td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td> </tr> </table>
