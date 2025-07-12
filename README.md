@@ -58,15 +58,52 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </table>
 
 ### 🗄️ Databases & Platforms  
-<table align="center"> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td> <td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td> </tr> </table>
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/zGQ2nVWT/Logo-Fiebase.gif" width="45"/><br>Firebase</td>
+<td align="center" width="100"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4NG9kMjVydDBxbGJ5M3k1eWlmMzE2NzNmODcwcG00cnM1cXdvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="45"/><br>MongoDB</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/><br>MySQL</td>
+<td align="center" width="100"></td>
+</tr>
+</table>
 
 ### 🚀 DevOps & Tools  
-<table align="center"> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/3R2n21Cv/Git-Logo.gif" width="45"/><br>Git</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td> <td align="center" width="100"><img src="https://i.postimg.cc/L8wz8fKg/Figma-Logo.gif" width="45"/><br>Figma</td> </tr> <tr> <td align="center" width="100"><img src="https://i.postimg.cc/3NmVJpwK/626f16be-1d79-4815-82e1-1659ee63017d.gif" width="50"/><br>Canva</td> <td align="center" width="100"><img src="https://i.postimg.cc/bYVj607t/output-onlinegiftools-1.gif" width="60"/><br>Google Cloud</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>AWS</td> </tr> <tr> </td><td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td> <td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="40"/><br>Notion</td> <td align="center" width="100"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br>Power BI</td> </tr> 
-<tr> <td align="center" width="100"><img src="https://i.postimg.cc/ydCHyf9h/Wordpress-Logo-Grow.gif" width="45"/><br>WordPress</td><td align="center" width="100"><img src="https://i.postimg.cc/QCCP1PSd/ezgif-19b99098c57682.gif" width="60"/><br>VS Code</td> <td align="center" width="100"><img src="https://i.postimg.cc/rppYv7XC/Android-Studio-New-Logo.gif" width="45"/><br>Android Studio</td></tr>
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/3R2n21Cv/Git-Logo.gif" width="45"/><br>Git</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"/><br>GitHub</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/L8wz8fKg/Figma-Logo.gif" width="45"/><br>Figma</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/3NmVJpwK/626f16be-1d79-4815-82e1-1659ee63017d.gif" width="50"/><br>Canva</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://i.postimg.cc/bYVj607t/output-onlinegiftools-1.gif" width="60"/><br>Google Cloud</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"/><br>AWS</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/d1vTxcT4/2062867.gif" width="48" height="45" alt="Postman" /><br>Postman</td>
+<td align="center" width="100"><img src="https://img.icons8.com/color/48/notion.png" width="40"/><br>Notion</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://img.icons8.com/color/48/power-bi.png" width="45"/><br>Power BI</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/ydCHyf9h/Wordpress-Logo-Grow.gif" width="45"/><br>WordPress</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/QCCP1PSd/ezgif-19b99098c57682.gif" width="60"/><br>VS Code</td>
+<td align="center" width="100"><img src="https://i.postimg.cc/rppYv7XC/Android-Studio-New-Logo.gif" width="45"/><br>Android Studio</td>
+</tr>
 </table>
 
 ### 🏢 Enterprise & Component-based Development  
-<table align="center"> <tr> <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java EE / Jakarta EE</td> <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br>Web Services</td> <td align="center" width="100"><img src="https://img.icons8.com/color/48/database.png" width="45"/><br>JDBC</td> </tr> <tr> <td align="center" width="100"><img src="https://img.icons8.com/ios-filled/50/puzzle.png" width="45"/><br>EJB</td> <td align="center" width="100"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-message-contact-us-flatart-icons-outline-flatarticons.png" width="45"/><br>JMS</td> <td align="center" width="100"></td> </tr> </table>
+<table align="center">
+<tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java EE / Jakarta EE</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br>Web Services</td>
+<td align="center" width="100"><img src="https://img.icons8.com/color/48/database.png" width="45"/><br>JDBC</td>
+<td align="center" width="100"><img src="https://img.icons8.com/ios-filled/50/puzzle.png" width="45"/><br>EJB</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-message-contact-us-flatart-icons-outline-flatarticons.png" width="45"/><br>JMS</td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+<td align="center" width="100"></td>
+</tr>
+</table>
 
 ---
 
