@@ -39,7 +39,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>
 <td align="center" width="100"> <img src="https://i.postimg.cc/vHPF18md/Kotlin.gif" width="45"/><br>Kotlin </td>
-<td align="center" width="100"></td>
+<td align="center" width="100"><img src="https://i.postimg.cc/JhdwxMfV/1711638001854-unscreen.gif" width="50"/><br>MATLAB</td>
 <td align="center" width="100"></td>
 </tr>
 </table>
