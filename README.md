@@ -34,7 +34,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
 <td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br>Dart</td>
+<td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="45"/><br>Dart</td>
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/t4fyYR4M/Swift-Logo.gif" width="45"/><br>Swift</td>
@@ -54,9 +54,9 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://i.postimg.cc/qRbMXPct/output-onlinegiftools-2.gif" width="45"/><br>Laravel</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=jquery" width="40"/><br>jQuery</td>
+<td align="center" width="100"><img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="40"/><br>jQuery</td>
 <td align="center" width="100"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="70" /><br>PrimeFaces</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwindcss" width="45"/><br>Tailwind</td>
+<td align="center" width="100"><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" width="45"/><br>Tailwind</td>
 </tr>
 </table>
 
