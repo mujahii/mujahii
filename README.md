@@ -95,7 +95,7 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 ### 🏢 Enterprise & Component-based Development
 <table align="center">
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java EE</td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65"/><br>Java EE</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45"/><br>Web Services</td>
 <td align="center" width="100"><img src="https://v31.openhab.org/logos/jdbc.png" width="45"/><br>JDBC</td>
 </tr>
