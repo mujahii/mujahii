@@ -114,6 +114,12 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mujahii&theme=nord_bright&utcOffset=8" width="45%" />
 </p>
 
+</p>
+<a href="https://github.com/mujahii">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?mujahii&theme=nord_bright&hide_border=true" width="90%" />
+</p>
+
 <p align="center">
   <a href="https://github.com/mujahii">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mujahii&theme=nord_bright" width="45%" />
