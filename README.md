@@ -27,11 +27,11 @@ I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf
 <tr>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/><br>Java</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"/><br>JavaScript</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/HTML5.gif" width="45"/><br>HTML</td>
 </tr>
 <tr>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="45"/><br>CSS</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> C++ </td>
 <td align="center" width="100"><img src="https://i.postimg.cc/445Yntk2/output-onlinegiftools.gif" width="45"/><br>PHP</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/><br>Python</td>
 <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="45"/><br>Dart</td>
