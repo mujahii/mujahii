@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me 
 
-I’m **Mujahid Mohammed**, currently pursuing a Bachelor's degree in Software Engineering at **Universiti Putra Malaysia (UPM)**.  
-My expertise spans **software engineering**, **digital marketing**, **website management**, and **UI/UX design**.  
-I have worked as a **Digital Marketing Specialist & Website Manager at Al-Ahdaaf**, and I’m currently a **Marketing Consultant at Vertico**, developing and implementing creative marketing strategies.
+I’m **Mujahid Mohammed**, currently pursuing a Bachelor's degree in Software Engineering at Universiti Putra Malaysia (UPM).  
+My expertise spans software engineering, digital marketing, website management, and UI/UX design.  
+I have worked as a Digital Marketing Specialist & Website Manager at Al-Ahdaaf, and I’m currently a Marketing Consultant at Vertico, developing and implementing creative marketing strategies.
 
 💡 I’m passionate about leveraging multidisciplinary expertise for **innovative and impactful projects**, and always open to new **connections and opportunities** in tech and business.
 
